@@ -19,7 +19,7 @@
 <br>
 ### Frameworks
 [<img align="left" alt="flutter" width="66px" src="https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=1600%2C800&strip=all" />][flutter]
-
+<br>
 
 
 #### Overall profile stats
