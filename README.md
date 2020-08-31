@@ -27,7 +27,7 @@
 
 
 [link1]: https://hackr.io/blog/java-frameworks
-[twitter]: https://twitter.com/cloudmaxio
+[twitter]: https://twitter.com/rishabh2814
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/rishabh-tiwari-02138b187/
 [python]: https://python.org
