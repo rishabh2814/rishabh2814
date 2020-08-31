@@ -26,7 +26,7 @@
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=Rishabh2814&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/AjjuSingh" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
+<img src="https://gpvc.arturio.dev/Rishabh2814" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rishabh2814?style=social"/> 
 
 [twitter]: https://twitter.com/rishabh2814
 [instagram]: https://instagram.com/
