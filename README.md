@@ -27,16 +27,10 @@
 
 <img src="https://gpvc.arturio.dev/AjjuSingh" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
 
-
-[link1]: https://hackr.io/blog/java-frameworks
 [twitter]: https://twitter.com/rishabh2814
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/rishabh-tiwari-02138b187/
 [python]: https://python.org
-[kotlin]: https://kotlinlang.org
 [dart]: https://dart.dev
-[django]: https://djangoproject.com
-[spring]: https://spring.io
 [flutter]: https://flutter.dev
-[vaadin]: https://vaadin.com
 
