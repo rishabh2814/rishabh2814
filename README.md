@@ -35,8 +35,8 @@
 
 [link1]: https://hackr.io/blog/java-frameworks
 [twitter]: https://twitter.com/cloudmaxio
-[instagram]: https://instagram.com/iamcloud.dev
-[linkedin]: https://www.linkedin.com/in/ajay-kumar-singh-737182154/
+[instagram]: https://instagram.com/
+[linkedin]: https://www.linkedin.com/in/rishabh-tiwari-02138b187/
 [python]: https://python.org
 [kotlin]: https://kotlinlang.org
 [dart]: https://dart.dev
