@@ -3,7 +3,7 @@
 ## I'm a Developer and Gamer
 - 🔭 I’m currently working on a pygame.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <p align="center">
 <a href="https://twitter.com/rishabh2814"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
